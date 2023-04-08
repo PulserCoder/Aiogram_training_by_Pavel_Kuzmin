@@ -5,10 +5,10 @@ The training is aimed at the IT College Singularity Hub
 
 Time: 08.04.2023, 13:15 by MSK
 
-Head coach: Pavel Kuzmin (https://github.com/PulserCoder)
-Curators:
-Roman Boronov (https://github.com/Mat1ro )
-Egor Arkhipov (https://github.com/Maurdihen )
+Head coach: Pavel Kuzmin (https://github.com/PulserCoder)  
+Curators:  
+Roman Boronov (https://github.com/Mat1ro ) 
+Egor Arkhipov (https://github.com/Maurdihen ) 
 
 Plan for training
 - А story about the main differences and advantages of `aiogram` from `pytelegrambotapi`.
